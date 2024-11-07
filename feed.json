@@ -1,0 +1,115 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Officina Saperi Potenziali",
+    "description": "",
+    "home_page_url": "https://fede65246.github.io/OSP",
+    "feed_url": "https://fede65246.github.io/OSP/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Federico Vidoli"
+    },
+    "items": [
+        {
+            "id": "https://fede65246.github.io/OSP/teorema-di-goedel.html",
+            "url": "https://fede65246.github.io/OSP/teorema-di-goedel.html",
+            "title": "Teorema di Gödel",
+            "summary": "Una lezione sui tanto citati (spesso con poca cognizione di causa) Teoremi di Incompletezza di Gödel. La prima parte è stata dedicata alla contestualizzazione nel periodo storico, alla ricezione da parte del pubblico di logici, matematici e filosofi, per comprendere come mai il grande sogno&hellip;",
+            "content_html": "<p>Una lezione sui tanto citati (spesso con poca cognizione di causa) Teoremi di Incompletezza di Gödel. La prima parte è stata dedicata alla contestualizzazione nel periodo storico, alla ricezione da parte del pubblico di logici, matematici e filosofi, per comprendere come mai il grande sogno del programma di Hilbert sia stato infranto. Nella seconda parte abbiamo ripercorso le tappe fondamentali delle due dimostrazioni, seguendo la scaletta dell’esposizione divulgativa di Nagel e Newmann, per costruire, infine, la famosa proposizione, espressa completamente in linguaggio aritmetico, che affermi “io non sono dimostrabile”.</p>",
+            "author": {
+                "name": "Federico Vidoli"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-07T16:27:41+01:00",
+            "date_modified": "2024-11-07T16:29:31+01:00"
+        },
+        {
+            "id": "https://fede65246.github.io/OSP/teoria-di-galois.html",
+            "url": "https://fede65246.github.io/OSP/teoria-di-galois.html",
+            "title": "Teoria di Galois",
+            "summary": "Perché non esiste una formula risolutiva per le equazioni di quinto grado? L’intera mattinata. Pausa pranzo. La ripresa nel pomeriggio. Una giornata dedicata alla spiegazione, da parte del professore Niccolò Argentieri, della teoria di Galois. Sviluppata dal giovanissimo e geniale matematico francese, che, trascorsa una&hellip;",
+            "content_html": "<p>Perché non esiste una formula risolutiva per le equazioni di quinto grado? L’intera mattinata. Pausa pranzo. La ripresa nel pomeriggio. Una giornata dedicata alla spiegazione, da parte del professore Niccolò Argentieri, della teoria di Galois. Sviluppata dal giovanissimo e geniale matematico francese, che, trascorsa una notte a formalizzarla e ordinarla, sarà ucciso in duello la mattina successiva. Galois riuscì a stabilire una connessione tra la Teoria dei Gruppi e quella delle Equazioni, definendo delle proprietà di risolubilità delle equazioni.</p>",
+            "author": {
+                "name": "Federico Vidoli"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-07T16:27:09+01:00",
+            "date_modified": "2024-11-07T16:29:05+01:00"
+        },
+        {
+            "id": "https://fede65246.github.io/OSP/superfici-di-riemann.html",
+            "url": "https://fede65246.github.io/OSP/superfici-di-riemann.html",
+            "title": "Superfici di Riemann",
+            "summary": "Dopo un incontro preparatorio, volto a consegnarci gli strumenti necessari per affrontare la lezione successiva, il professor Enrico Arbarello, tra i massimi esperti del settore a livello mondiale, ci ha parlato della grande idea del matematico tedesco Bernhard Riemann che, tra le conseguenze più importanti,&hellip;",
+            "content_html": "<p>Dopo un incontro preparatorio, volto a consegnarci gli strumenti necessari per affrontare la lezione successiva, il professor Enrico Arbarello, tra i massimi esperti del settore a livello mondiale, ci ha parlato della grande idea del matematico tedesco Bernhard Riemann che, tra le conseguenze più importanti, vede la possibilità di rendere invertibili funzioni complesse fondamentali. Tra numeri complessi e ciambelle allo spiedo (altresì note come tori ruotati intorno al proprio asse), un’affascinante lezione</p>",
+            "author": {
+                "name": "Federico Vidoli"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-07T16:26:57+01:00",
+            "date_modified": "2024-11-07T16:28:45+01:00"
+        },
+        {
+            "id": "https://fede65246.github.io/OSP/energia-nucleare-rischio-o-risosrsa.html",
+            "url": "https://fede65246.github.io/OSP/energia-nucleare-rischio-o-risosrsa.html",
+            "title": "Energia Nucleare: Rischio o Risosrsa?",
+            "author": {
+                "name": "Federico Vidoli"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-07T16:26:23+01:00",
+            "date_modified": "2024-11-07T16:26:23+01:00"
+        },
+        {
+            "id": "https://fede65246.github.io/OSP/intelligenza-artificiale.html",
+            "url": "https://fede65246.github.io/OSP/intelligenza-artificiale.html",
+            "title": "Intelligenza Artificiale e lo Spirito del Capitalismo",
+            "author": {
+                "name": "Federico Vidoli"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-07T16:25:26+01:00",
+            "date_modified": "2024-11-07T16:25:52+01:00"
+        },
+        {
+            "id": "https://fede65246.github.io/OSP/lobbedienza-non-e-piu-una-virtu.html",
+            "url": "https://fede65246.github.io/OSP/lobbedienza-non-e-piu-una-virtu.html",
+            "title": "L&#x27;obbedienza non è più una virtù",
+            "author": {
+                "name": "Federico Vidoli"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-07T16:25:11+01:00",
+            "date_modified": "2024-11-07T16:25:11+01:00"
+        },
+        {
+            "id": "https://fede65246.github.io/OSP/la-vita-in-ucraina-in-tempi-di-guerra.html",
+            "url": "https://fede65246.github.io/OSP/la-vita-in-ucraina-in-tempi-di-guerra.html",
+            "title": "La vita in Ucraina in tempi di guerra",
+            "author": {
+                "name": "Federico Vidoli"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-07T16:24:55+01:00",
+            "date_modified": "2024-11-07T16:24:55+01:00"
+        },
+        {
+            "id": "https://fede65246.github.io/OSP/marcel-proust.html",
+            "url": "https://fede65246.github.io/OSP/marcel-proust.html",
+            "title": "Marcel Proust",
+            "author": {
+                "name": "Federico Vidoli"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-07T16:22:45+01:00",
+            "date_modified": "2024-11-07T16:24:47+01:00"
+        }
+    ]
+}
