@@ -3,12 +3,32 @@
     <title>Officina Saperi Potenziali</title>
     <link href="https://fede65246.github.io/OSP/feed.xml" rel="self" />
     <link href="https://fede65246.github.io/OSP" />
-    <updated>2024-11-11T19:43:09+01:00</updated>
+    <updated>2024-11-11T19:47:03+01:00</updated>
     <author>
         <name>Federico Vidoli</name>
     </author>
     <id>https://fede65246.github.io/OSP</id>
 
+    <entry>
+        <title>Manifesto</title>
+        <author>
+            <name>Federico Vidoli</name>
+        </author>
+        <link href="https://fede65246.github.io/OSP/manifesto/"/>
+        <id>https://fede65246.github.io/OSP/manifesto/</id>
+
+        <updated>2024-11-11T18:21:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                    something
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>something</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Teorema di Gödel</title>
         <author>

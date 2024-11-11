@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://fede65246.github.io/OSP/manifesto/",
+            "url": "https://fede65246.github.io/OSP/manifesto/",
+            "title": "Manifesto",
+            "summary": "something",
+            "content_html": "<p>something</p>",
+            "author": {
+                "name": "Federico Vidoli"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-11T18:21:46+01:00",
+            "date_modified": "2024-11-11T19:47:03+01:00"
+        },
+        {
             "id": "https://fede65246.github.io/OSP/teorema-di-goedel/",
             "url": "https://fede65246.github.io/OSP/teorema-di-goedel/",
             "title": "Teorema di Gödel",
